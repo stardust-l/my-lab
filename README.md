@@ -9,6 +9,7 @@ KEPCO电流源
 SRS的锁相放大器
 ## 20220827
 中间两年经历过比较大的修改，根据实际需要增加了许多功能
+![image](https://user-images.githubusercontent.com/56717657/187687622-210e12e1-e938-4ee5-a9f5-27b34655e499.png)
 
 ### 功能
 1. 改变磁场测电阻（反常霍尔AHE,平面霍尔PHE，磁电阻MR）
